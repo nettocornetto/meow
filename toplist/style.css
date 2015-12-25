@@ -1,0 +1,46 @@
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+
+
+img {
+  margin-right: 40px;
+  margin-top: 40px;
+}
+
+
+.description {
+  margin-top: 40px;
+}
+
+.box {
+  display: inline-block;
+}
+
+.header{
+  position:relative ;
+}
+
+.title{
+  position:absolute ;
+  top:60%;
+  right:6.5%;
+}
+
+.body {
+  padding-left:20%;
+  padding-right:5%;
+
+}
+
+.app img{
+  width: 100%;
+}
+
+hr { width:100%; height:1px; background: #fff }
+
+
